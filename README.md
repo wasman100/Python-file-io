@@ -136,10 +136,4 @@ Copy your `part1.py` file into `part2.py` file and make your changes in the new 
 
 ---
 
-# Look at You, Being a Boss!
 
-What do you call a snake that's 3.14 meters long?
-
-![](https://media.giphy.com/media/3owyoUHuSSqDMEzVRu/giphy.gif)
-
-A `Pi-Thon`! :grin:
